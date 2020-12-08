@@ -1,2 +1,2 @@
 # alice-lpc-swt
-ALICE-LPC-software-tutorial
+ALICE-LPC-software-tutorial.
